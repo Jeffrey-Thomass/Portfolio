@@ -181,7 +181,7 @@ const App = () => {
       ],
       type: "Web App",
       image: liveCodingImg, // import like other images
-      live: "https://your-platform-domain.com", // optional
+      live: "https://codemate-0q8m.onrender.com", // optional
     },
     {
       title: "Realtime Chat App",
@@ -190,7 +190,7 @@ const App = () => {
       tags: ["MongoDB", "Express", "React", "Node.js", "Socket.IO", "Zustand"],
       type: "Web App",
       image: chatAppImg, // import this just like other images
-      live: "https://your-chat-app-domain.com", // optional
+      live: "https://chatapp-co8p4.sevalla.app/", // optional
     },    
     {
       title: "Netflix Clone",
